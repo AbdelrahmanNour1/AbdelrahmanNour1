@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelrahman Mohammed Nour.
 - 👀 I’m interested in C++,Web development, and game development.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Embedded Systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
